@@ -4,3 +4,4 @@ A Twitter bot that sends a tweet to next weeks designated coffee buyer!
 #### [ ] Create the bot.app in JS <br> 
 #### [ ] Get the Twitter API  <br>
 
+<img src="https://gph.is/28NlSrl" >
